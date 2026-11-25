@@ -97,8 +97,46 @@
 }
 .foto{
     width: 660px;
-    height: 600px;
+    height: 750px;
     position: absolute;
     margin-left: 500px;
     top: 0px;
+}
+.section3{
+    background-color: #FEF9F2;
+    width: 100%;
+}
+.e{
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    justify-content: center;
+    padding-top: 100px;
+}
+.ee{
+    width: 250px;
+    text-align: center;
+}
+.raqam{
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.raqam span{
+    color: orange;
+    margin-left: 6px;
+}
+.nom{
+    font-size: 15px;
+    color: gray;
+    margin-top: 8px;
+}
+.ekhat{
+    width: 987px;
+    height: 1px;
+    background-color: gray;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
 }
