@@ -246,3 +246,51 @@
   height: 20px;
   margin-right: 10px;
 }
+.section5{
+    padding: 200px;
+    margin-left: -100px;
+}
+.a{
+    font-family: sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+.a0 p{
+    color: orange;
+}
+.a1{
+    display: flex;
+    gap: 20px;
+}
+.a3{
+    width: 60px;
+    height: 60px;
+}
+.a4{
+    position: relative;
+    margin-left: 70px;
+    top: -60px;
+}
+.a5{
+    position: relative;
+    margin-left: 80px;
+    top: -70px;
+}
+.a6{
+    margin-left: 30px;
+}
+.a7{
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 20px;
+    margin-left: -215px;
+}
+.a8{
+    position: absolute;
+    left: 550px;
+    top: -50px;
+    width: 550px;
+    height: 550px;
+}
