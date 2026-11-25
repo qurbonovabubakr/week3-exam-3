@@ -135,8 +135,114 @@
 .ekhat{
     width: 987px;
     height: 1px;
-    background-color: gray;
+    background-color: lightgray;
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
+}
+.section4 {
+  height: 1200px;
+  background-color: #FEF9F2;
+}
+
+.r {
+  position: relative;
+  width: 920px;
+  height: 1000px;
+  margin: 0px auto;
+  max-width: 1200px;
+  top: 100px;
+}
+
+.r0 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  margin: 0px;
+  color: orange;
+}
+
+.r4 {
+  position: absolute;
+  top: 35px;
+  left: 0px;
+  margin: 0px;
+}
+
+.r1 {
+  position: absolute;
+  top: 140px;
+  left: 0px;
+  width: 450px;
+  margin: 0px;
+  color: gray;
+}
+
+.r2 {
+  position: absolute;
+  top: 247px;
+  left: 0px;
+  width: 450px;
+}
+
+.r3 {
+  position: absolute;
+  top: 671px;
+  left: 0px;
+  width: 450px;
+}
+
+.r5 {
+  position: absolute;
+  top: 135px;
+  left: 470px;
+  width: 450px;
+}
+
+.r6 {
+  position: absolute;
+  top: 43px;
+  left: 647px;
+  width: 137px;
+  height: 54px;
+  background-color: orange;
+  border: none;
+  border-radius: 5px;
+}
+
+.r7 {
+  position: absolute;
+  top: 43px;
+  left: 804px;
+  width: 116px;
+  height: 54px;
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.r8 {
+  position: absolute;
+  top: 740px;
+  left: 470px;
+  width: 450px;
+  margin: 0px;
+  color: gray;
+}
+
+.r9 {
+  position: absolute;
+  top: 853px;
+  left: 470px;
+}
+
+.r10 {
+  margin: 0px;
+  height: 30px;
+}
+
+.r11 {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
 }
