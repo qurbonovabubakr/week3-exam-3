@@ -294,3 +294,24 @@
     width: 550px;
     height: 550px;
 }
+.section6{
+    background-color: #FFD4A4;
+    padding: 200px;
+    text-align: center;
+}
+.s{
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 20px;
+    color: white;
+}
+.s1{
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 20px;
+}
+.section6 button{
+    margin-left: 10px;
+}
