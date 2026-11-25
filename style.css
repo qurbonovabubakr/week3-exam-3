@@ -296,8 +296,9 @@
 }
 .section6{
     background-color: #FFD4A4;
-    padding: 200px;
+    padding: 150px;
     text-align: center;
+    height: 400px;
 }
 .s{
     background-color: black;
@@ -305,6 +306,10 @@
     border-radius: 5px;
     padding: 15px 20px;
     color: white;
+}
+.s10{
+    padding: 50px;
+    width: 1000px;
 }
 .s1{
     background-color: white;
@@ -314,4 +319,57 @@
 }
 .section6 button{
     margin-left: 10px;
+}
+.section7{
+    text-align: center;
+    padding: 250px;
+}
+.d{
+    position: relative;
+    width: 800px;
+    height: 200px;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.d1{
+    position: absolute;
+    top: 40px;
+    left: -40px;
+    margin: 0px;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.d2{
+    position: absolute;
+    top: 75px;
+    left: -55px;
+    width: 350px;
+    margin: 0px;
+    font-size: 13px;
+    color: gray;
+}
+.d3{
+    position: absolute;
+    top: 40px;
+    left: 450px;
+    margin: 0px;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+.d4{
+    position: absolute;
+    top: 75px;
+    left: 440px;
+    width: 350px;
+    margin: 0px;
+    font-size: 13px;
+    color: gray;
+}
+.dkhat{
+    border: 1px solid lightgray;
+    margin-top: 50px;
+    width: 900px;
+    margin: 0 auto;
 }
