@@ -551,9 +551,6 @@
     background-color: #FEF9F2;
     position: relative;
     padding: 100px;
-    /* left: 100px; */
-    /* margin: 0 auto; */
-    /* max-width: 1200px; */
 }
 .z{
     margin: 0 auto;
@@ -617,4 +614,105 @@
     border-radius: 5px;
     position: relative;
     left: -20px;
+}
+.section10{
+    position: relative;
+    padding: 150px;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.c{
+    margin: 0 auto;
+    max-width: 1200px;
+    position: relative;
+}
+.c00{
+    position: relative;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.c0{
+    color: orange;
+    font-family: sans-serif;
+    position: relative;
+}
+.c1{
+    position: relative;
+    left: -280px;
+    top: 100px;
+    width: 550px;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.c2{
+    position: relative;
+    border-radius: 10px;
+    background-color: white;
+    padding: 40px 50px;
+    box-shadow: 1px 1px 5px lightgray;
+    width: 400px;
+    left: -75px;
+}
+.c3{
+    position: relative;
+    background-color: white;
+    border: 1px solid lightgray;
+    padding: 10px 20px;
+    border-radius: 5px;
+    left: -150px;
+}
+.c4{
+    background-color: white;
+    border: none;
+    position: relative;
+    left: -130px;
+}
+.c5{
+    font-size: 30px;
+    position: relative;
+    left: -25px;
+    text-align: start;
+}
+.c6{
+    position: relative;
+    top: 20px;
+    left: -200px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.cc1{
+    position: absolute;
+    right: 20px;
+    width: 550px;
+    margin-top: -460px;
+}
+.cc2{
+    position: absolute;
+    border-radius: 10px;
+    background-color: white;
+    padding: 40px 50px;
+    box-shadow: 1px 1px 5px lightgray;
+    width: 400px;
+    right: 70px;
+    margin-top: -250px;
+}
+.cc3{
+    background-color: orange;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+    position: relative;
+    top: 50px;
+    left: -30px;
+    font-weight: bold;
+}
+.cc4{
+    background-color: white;
+    border: 1px solid lightgray;
+    padding: 15px 20px;
+    position: relative;
+    top: 50px;
+    border-radius: 5px;
+    font-weight: bold;
 }
